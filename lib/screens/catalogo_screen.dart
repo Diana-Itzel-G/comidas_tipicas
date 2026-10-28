@@ -6,7 +6,7 @@ import '../widgets/buscador_platillos.dart';
 import '../widgets/chip_categoria.dart';
 import '../widgets/estado_vacio.dart';
 import '../widgets/tarjeta_platillo.dart';
-import 'detalle_platillo_screen.dart';
+import 'detalle_platillo.dart';
 
 /// Pantalla 2: catalogo en cuadricula, con buscador y filtro por categoria.
 class CatalogoScreen extends StatefulWidget {
