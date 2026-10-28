@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "nombre": "Mole Negro Oaxaqueño",
+    "estado": "Oaxaca",
+    "region": "Sur",
+    "categoria": "Platos fuertes",
+    "imagen": "https://picsum.photos/id/292/800/600",
+    "descripcion": "Uno de los siete moles de Oaxaca. Es una salsa espesa y oscura de chiles tostados, semillas, especias y chocolate, que se sirve sobre pollo.",
+    "tiempo": "120 min",
+    "destacado": true,
+    "ingredientes": [
+      "6 chiles chilhuacle negro",
+      "4 chiles mulato",
+      "4 chiles pasilla",
+      "1/2 taza de ajonjolí tostado",
+      "1/4 taza de almendras",
+      "1 plátano macho frito",
+      "100 g de chocolate de mesa",
+      "1 pollo en piezas",
+      "Caldo de pollo"
+    ],
+    "pasos": [
+      "Tostar los chiles sin que se quemen y remojarlos en agua caliente.",
+      "Tostar el ajonjolí, las almendras y las especias.",
+      "Licuar los chiles con las semillas, el plátano y un poco de caldo.",
+      "Freír la pasta en manteca y agregar el chocolate hasta que se derrita.",
+      "Cocer el pollo en el mole a fuego lento durante una hora.",
+      "Servir caliente con arroz y tortillas."
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Tlayuda Tradicional",
+    "estado": "Oaxaca",
+    "region": "Sur",
+    "categoria": "Antojitos",
+    "imagen": "https://picsum.photos/id/42/800/600",
+    "descripcion": "Tortilla grande y crujiente, untada con asiento y frijoles, cubierta con quesillo, col y carne asada. Se dobla como un taco gigante.",
+    "tiempo": "25 min",
+    "destacado": false,
+    "ingredientes": [
+      "1 tortilla gigante (tlayuda)",
+      "Asiento de cerdo",
+      "Frijoles molidos",
+      "Quesillo oaxaqueño",
+      "Tasajo o cecina",
+      "Col picada"
+    ],
+    "pasos": [
+      "Untar una capa delgada de asiento sobre la tlayuda.",
+      "Esparcir los frijoles molidos de manera uniforme.",
+      "Agregar el quesillo deshebrado y la col.",
+      "Asar al carbón hasta que esté tostada.",
+      "Servir con la carne asada encima."
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Tejate",
+    "estado": "Oaxaca",
+    "region": "Sur",
+    "categoria": "Bebidas",
+    "imagen": "https://picsum.photos/id/30/800/600",
+    "descripcion": "Bebida fría y espumosa de origen prehispánico, hecha con maíz, cacao y semillas. Se sirve en jícara y es típica de los mercados oaxaqueños.",
+    "tiempo": "60 min",
+    "destacado": false,
+    "ingredientes": [
+      "Maíz cocido",
+      "Cacao tostado",
+      "Semilla de mamey (pixtle)",
+      "Flor de cacao",
+      "Agua fría",
+      "Hielo"
+    ],
+    "pasos": [
+      "Moler el maíz, el cacao y el pixtle hasta obtener una pasta fina.",
+      "Mezclar la pasta con un poco de agua y trabajarla con las manos.",
+      "Agregar más agua fría poco a poco hasta que suba la espuma.",
+      "Servir con hielo en una jícara o vaso grande."
+    ]
+  },
+  {
+    "id": 4,
+    "nombre": "Cochinita Pibil",
+    "estado": "Yucatán",
+    "region": "Sureste",
+    "categoria": "Platos fuertes",
+    "imagen": "https://picsum.photos/id/102/800/600",
+    "descripcion": "Cerdo marinado en achiote y naranja agria, envuelto en hoja de plátano y cocido lentamente hasta quedar muy suave.",
+    "tiempo": "240 min",
+    "destacado": true,
+    "ingredientes": [
+      "1 kg de carne de cerdo",
+      "3 cucharadas de pasta de achiote",
+      "1 taza de jugo de naranja agria",
+      "4 dientes de ajo",
+      "1 cucharadita de orégano",
+      "Hojas de plátano",
+      "Cebolla morada encurtida"
+    ],
+    "pasos": [
+      "Disolver el achiote en el jugo de naranja con el ajo y el orégano.",
+      "Marinar la carne en la mezcla por lo menos 4 horas.",
+      "Envolver la carne en hojas de plátano previamente pasadas por fuego.",
+      "Hornear a fuego bajo durante unas 3 horas.",
+      "Deshebrar y servir con cebolla morada y tortillas."
+    ]
+  },
+  {
+    "id": 5,
+    "nombre": "Sopa de Lima",
+    "estado": "Yucatán",
+    "region": "Sureste",
+    "categoria": "Sopas",
+    "imagen": "https://picsum.photos/id/63/800/600",
+    "descripcion": "Caldo de pollo fresco y aromático con lima yucateca, acompañado de tiras de tortilla frita.",
+    "tiempo": "45 min",
+    "destacado": false,
+    "ingredientes": [
+      "1 litro de caldo de pollo",
+      "Pechuga de pollo deshebrada",
+      "2 limas",
+      "1/2 cebolla",
+      "1 jitomate",
+      "Tortillas fritas en tiras",
+      "Cilantro"
+    ],
+    "pasos": [
+      "Sofreír la cebolla y el jitomate en una olla.",
+      "Agregar el caldo y dejar hervir unos minutos.",
+      "Incorporar el pollo deshebrado y el jugo de lima.",
+      "Servir caliente con las tiras de tortilla y cilantro."
+    ]
+  },
+  {
+    "id": 6,
+    "nombre": "Chiles en Nogada",
+    "estado": "Puebla",
+    "region": "Centro",
+    "categoria": "Platos fuertes",
+    "imagen": "https://picsum.photos/id/21/800/600",
+    "descripcion": "Chile poblano relleno de picadillo con frutas, bañado con salsa de nuez y decorado con granada y perejil, con los colores de la bandera.",
+    "tiempo": "180 min",
+    "destacado": true,
+    "ingredientes": [
+      "6 chiles poblanos",
+      "500 g de carne molida",
+      "Manzana, pera y durazno picados",
+      "1 taza de nuez de Castilla",
+      "200 g de queso fresco",
+      "1/2 taza de crema",
+      "Granada",
+      "Perejil"
+    ],
+    "pasos": [
+      "Asar los chiles, pelarlos y quitarles las semillas.",
+      "Preparar el picadillo con la carne y las frutas picadas.",
+      "Rellenar los chiles con el picadillo.",
+      "Licuar la nuez con el queso y la crema para hacer la nogada.",
+      "Bañar los chiles con la nogada y decorar con granada y perejil."
+    ]
+  },
+  {
+    "id": 7,
+    "nombre": "Cemita Poblana",
+    "estado": "Puebla",
+    "region": "Centro",
+    "categoria": "Antojitos",
+    "imagen": "https://picsum.photos/id/28/800/600",
+    "descripcion": "Torta poblana en pan de cemita con milanesa, aguacate, quesillo, chipotle y papalo, una hierba de sabor intenso.",
+    "tiempo": "30 min",
+    "destacado": false,
+    "ingredientes": [
+      "1 pan de cemita",
+      "Milanesa de res o pollo",
+      "1 aguacate",
+      "Quesillo",
+      "Chiles chipotles",
+      "Papalo",
+      "Cebolla en rodajas"
+    ],
+    "pasos": [
+      "Freír la milanesa hasta que esté dorada.",
+      "Abrir el pan y untar el aguacate machacado.",
+      "Agregar la milanesa, el quesillo, la cebolla y el chipotle.",
+      "Terminar con las hojas de papalo y cerrar la cemita."
+    ]
+  },
+  {
+    "id": 8,
+    "nombre": "Birria de Res",
+    "estado": "Jalisco",
+    "region": "Occidente",
+    "categoria": "Platos fuertes",
+    "imagen": "https://picsum.photos/id/18/800/600",
+    "descripcion": "Guiso de carne en un adobo de chiles y especias, cocido lentamente. Se sirve con su caldo, cebolla, cilantro y limón.",
+    "tiempo": "180 min",
+    "destacado": false,
+    "ingredientes": [
+      "1 kg de carne de res",
+      "4 chiles guajillo",
+      "2 chiles anchos",
+      "4 dientes de ajo",
+      "Vinagre, comino y laurel",
+      "Cebolla y cilantro picados",
+      "Limones",
+      "Tortillas"
+    ],
+    "pasos": [
+      "Hervir los chiles y licuarlos con el ajo, el vinagre y las especias.",
+      "Bañar la carne con el adobo y dejarla reposar.",
+      "Cocer la carne tapada a fuego bajo hasta que esté suave.",
+      "Servir con su caldo, cebolla, cilantro, limón y tortillas."
+    ]
+  },
+  {
+    "id": 9,
+    "nombre": "Torta Ahogada",
+    "estado": "Jalisco",
+    "region": "Occidente",
+    "categoria": "Antojitos",
+    "imagen": "https://picsum.photos/id/15/800/600",
+    "descripcion": "Torta de pan birote salado rellena de carne de cerdo y bañada con salsa de jitomate y otra salsa picante de chile de árbol.",
+    "tiempo": "40 min",
+    "destacado": false,
+    "ingredientes": [
+      "1 birote salado",
+      "Carnitas de cerdo",
+      "Frijoles refritos",
+      "Salsa de jitomate",
+      "Salsa de chile de árbol",
+      "Cebolla morada"
+    ],
+    "pasos": [
+      "Abrir el birote y untar los frijoles por dentro.",
+      "Rellenar con las carnitas.",
+      "Bañar la torta con la salsa de jitomate caliente.",
+      "Agregar la salsa de chile de árbol al gusto y la cebolla morada."
+    ]
+  }
+]
