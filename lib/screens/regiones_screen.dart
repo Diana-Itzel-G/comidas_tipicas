@@ -6,7 +6,7 @@ import '../widgets/chip_categoria.dart';
 import '../widgets/encabezado_seccion.dart';
 import '../widgets/estado_vacio.dart';
 import '../widgets/tarjeta_platillo.dart';
-import 'detalle_platillo_screen.dart';
+import 'detalle_platillo.dart';
 
 /// Pantalla 5: explorar los platillos segun su estado de origen.
 class RegionesScreen extends StatefulWidget {

@@ -11,7 +11,7 @@ import '../widgets/etiqueta_origen.dart';
 import '../widgets/imagen_platillo.dart';
 import '../widgets/tarjeta_platillo.dart';
 import 'catalogo_screen.dart';
-import 'detalle_platillo_screen.dart';
+import 'detalle_platillo.dart';
 import 'regiones_screen.dart';
 
 /// Pantalla 1: inicio con platillo destacado, categorias y seleccion.
